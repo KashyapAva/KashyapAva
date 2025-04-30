@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @KashyapAva
+- 👋 Hi, I’m @Kashyap
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning statistics
-- 💞️ I’m looking to collaborate on database management
 
 <!---
 KashyapAva/KashyapAva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
