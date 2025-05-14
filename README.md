@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @Kashyap
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning statistics
+# 👋 Hi, I'm Kashyap Ava
+🎓 Master's in Statistics @ UIUC | 🎯 Data Analyst & ML Enthusiast
 
-<!---
-KashyapAva/KashyapAva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📊 My Interests
+- Time series forecasting
+- Predictive modeling
+- Statistical learning & experimental design
+
+## 📁 Projects
+- [Methane Flux Prediction with LSTM](https://github.com/kashyapava/methane-lstm)
+- [A/B Testing Dashboard in R Shiny](https://github.com/kashyapava/ab-testing-shiny)
+- [Income Prediction ML Model](https://github.com/kashyapava/income-ml)
+
+## 📫 Reach Me At
+- Email: your.email@example.com
+- LinkedIn: [linkedin.com/in/kashyapava](https://www.linkedin.com/in/kashyap-avs/)
+
