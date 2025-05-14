@@ -12,6 +12,6 @@
 - [Income Prediction ML Model](https://github.com/kashyapava/income-ml)
 
 ## 📫 Reach Me At
-- Email: your.email@example.com
+- Email: kashyap.ava.29@gmail.com
 - LinkedIn: [linkedin.com/in/kashyapava](https://www.linkedin.com/in/kashyap-avs/)
 
