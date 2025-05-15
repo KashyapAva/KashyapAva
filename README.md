@@ -12,8 +12,7 @@
 - [Reducing CO Emissions in Turbine Output](https://github.com/kashyapava/turbine-co-reduction): Statistical consulting project using regression, LASSO, decision trees, and random forests to optimize controllable turbine variables and reduce carbon monoxide emissions.
 - [Parkinson’s Disease Progression Prediction](https://github.com/kashyapava/parkinsons-progression): Machine learning models, including LSTM, LightGBM, CatBoost, and SVR, applied to clinical and protein data for predicting UPDRS scores in Parkinson’s disease patients.
 - [Image Generation with GANs and DIP-VAEs](https://github.com/kashyapava/image-generation-gan-dipvae): Comparison of GANs and disentangled VAEs on MNIST and SVHN datasets, analyzing image quality, latent structure, and training stability.
-
-
+- [Optimization in Deep Networks: Implicit Acceleration by Overparameterization](https://github.com/kashyapava/implicit-acceleration): Theoretical study demonstrating how depth in linear networks accelerates gradient descent through implicit preconditioning, independent of expressiveness.
 
 
 ## 📫 Reach Me At
