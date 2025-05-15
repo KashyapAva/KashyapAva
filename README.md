@@ -11,6 +11,8 @@
 - [Income Prediction using Logistic & Probit Models](https://github.com/kashyapava/income-prediction): Classification of income levels using logistic regression and GLM with probit link, based on UCI Census data.
 - [Reducing CO Emissions in Turbine Output](https://github.com/kashyapava/turbine-co-reduction): Statistical consulting project using regression, LASSO, decision trees, and random forests to optimize controllable turbine variables and reduce carbon monoxide emissions.
 - [Parkinson’s Disease Progression Prediction](https://github.com/kashyapava/parkinsons-progression): Machine learning models, including LSTM, LightGBM, CatBoost, and SVR, applied to clinical and protein data for predicting UPDRS scores in Parkinson’s disease patients.
+- [Image Generation with GANs and DIP-VAEs](https://github.com/kashyapava/image-generation-gan-dipvae): Comparison of GANs and disentangled VAEs on MNIST and SVHN datasets, analyzing image quality, latent structure, and training stability.
+
 
 
 
