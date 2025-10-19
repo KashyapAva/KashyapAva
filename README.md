@@ -37,7 +37,7 @@ Created **15+ DAX measures** and interactive dashboards for tracking KPIs — Re
 
 ---
 
-### 🌾 [Methane Flux Prediction using RNN & LSTM](https://github.com/KashyapAva/methane-flux-prediction)  
+### 🌾 [Methane Flux Prediction using RNN & LSTM](https://github.com/KashyapAva/methane-prediction)  
 Forecasted methane emissions in maize fields using **deep learning models** trained on eddy-covariance sensor data.  
 Benchmarked LSTM, Random Forest, and SARIMA models, improving **MAPE from 103% → 15%** by modeling key drivers (soil moisture, air temperature).  
 
@@ -49,7 +49,7 @@ Achieved **AUC = 0.894** and implemented automated preprocessing pipelines in My
 
 ---
 
-### ⚙️ [Reducing CO Emissions in Turbine Output](https://github.com/KashyapAva/co-emission-optimization)  
+### ⚙️ [Reducing CO Emissions in Turbine Output](https://github.com/KashyapAva/turbine-co-reduction)  
 Applied regression, LASSO, decision trees, and random forests to optimize turbine parameters and minimize CO output.  
 Identified key predictors (**CDP > 12 mbar, TIT > 1085 °C**) and achieved **RMSE = 0.504**.  
 
@@ -61,7 +61,7 @@ Enhanced interpretability through SHAP analysis and improved progression trackin
 
 ---
 
-### 🖼️ [Image Generation with GANs and DIP-VAEs](https://github.com/KashyapAva/image-generation-comparison)  
+### 🖼️ [Image Generation with GANs and DIP-VAEs](https://github.com/KashyapAva/image-generation-gan-dipvae)  
 Compared **GANs vs. Disentangled VAEs** on MNIST & SVHN datasets to analyze image quality, latent structure, and training stability.  
 
 ---
@@ -71,7 +71,7 @@ Theoretical study demonstrating how **overparameterization accelerates gradient 
 
 ---
 
-### 🚦 [Context-Aware Traffic Accident Severity Prediction](https://github.com/KashyapAva/traffic-severity-modeling)  
+### 🚦 [Context-Aware Traffic Accident Severity Prediction](https://github.com/KashyapAva/accident-severity-prediction)  
 Modeled accident severity using spatial and seasonal features with **ensemble learning** and **hotspot detection**.  
 Implemented undersampling techniques to balance class distributions and improve generalization.  
 
