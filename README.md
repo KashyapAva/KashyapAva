@@ -24,6 +24,8 @@ Performed **trial QC**: outlier checks, block consistency, and **ARM-style plot 
 Identified nitrogen plateau in wet seasons (NUE limits) and maximum yield gain in the dry season, with **V4 as the most stable cultivar**.
 Delivered **publication-quality visuals** and **agronomic recommendations**, translating results into field-ready guidance for R&D and agronomy teams.
 
+---
+
 ### 🧩 [Text-to-SQL LLM Copilot (FastAPI | SQLite | OpenAI | SQLGlot)](https://github.com/KashyapAva/API-SQL-LLM)  
 Built a FastAPI microservice that converts natural-language queries into validated SQL.  
 Integrated OpenAI’s GPT-4o-mini with schema introspection and SQLGlot guardrails, achieving **>95% query accuracy**.  
