@@ -17,6 +17,13 @@ My work combines **statistical rigor, machine learning, and end-to-end pipeline 
 
 ## 📁 Featured Projects  
 
+### 📊 [Long-Term Rice Field Trial Analytics (Mixed-Effects Modeling & Trial QC)](https://github.com/KashyapAva/field-trial-mixed-models)
+Analyzed **50+ years of irrigated rice field-trial data** using **mixed-effects models** to quantify nitrogen response and cultivar performance across seasons.
+Fit a **split-plot RCBD** with **Nitrogen (main-plot) × Cultivar (subplot)** using mixed-effects models (random Year × Rep effects) for valid inference.
+Performed **trial QC**: outlier checks, block consistency, and **ARM-style plot heatmaps** to evaluate field uniformity without GPS coordinates.
+Identified nitrogen plateau in wet seasons (NUE limits) and maximum yield gain in the dry season, with **V4 as the most stable cultivar**.
+Delivered **publication-quality visuals** and **agronomic recommendations**, translating results into field-ready guidance for R&D and agronomy teams.
+
 ### 🧩 [Text-to-SQL LLM Copilot (FastAPI | SQLite | OpenAI | SQLGlot)](https://github.com/KashyapAva/API-SQL-LLM)  
 Built a FastAPI microservice that converts natural-language queries into validated SQL.  
 Integrated OpenAI’s GPT-4o-mini with schema introspection and SQLGlot guardrails, achieving **>95% query accuracy**.  
