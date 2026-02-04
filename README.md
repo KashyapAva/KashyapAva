@@ -28,6 +28,11 @@ Ran CAPM and FF5 regressions to quantify factor exposure and alpha (**R² = 0.18
 
 ---
 
+### 📊 [Retail KPI Dashboard (Power BI, DAX)](https://github.com/KashyapAva/retail-kpi-powerbi-dashboard)
+Designed an end-to-end **Power BI analytics solution** with 15+ DAX measures to track revenue, AOV, gross margin %, CAC, ROAS, and YoY growth for retail performance monitoring.
+
+---
+
 ### 🌾 [Long-Term Rice Field Trial Analytics (Mixed-Effects Modeling)](https://github.com/KashyapAva/field-trial-mixed-models)
 Analyzed **50+ years of agronomic field-trial data** using mixed-effects models (split-plot RCBD) for valid inference.  
 Performed trial QC, visual diagnostics, and delivered **field-ready recommendations** with publication-quality outputs.
@@ -35,9 +40,6 @@ Performed trial QC, visual diagnostics, and delivered **field-ready recommendati
 ---
 
 ## 📌 Additional Selected Projects
-
-### 📊 [Retail KPI Dashboard (Power BI, DAX)](https://github.com/KashyapAva/retail-kpi-powerbi-dashboard)
-Designed an end-to-end **Power BI analytics solution** with 15+ DAX measures to track revenue, AOV, gross margin %, CAC, ROAS, and YoY growth for retail performance monitoring.
 
 ### 🌾 [Methane Flux Prediction (LSTM, RF, SARIMA)](https://github.com/KashyapAva/methane-prediction)
 Forecasted methane emissions from eddy-covariance sensor data, improving **MAPE from 103% → 15%** by modeling key environmental drivers such as soil moisture and temperature.
