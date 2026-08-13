@@ -1,14 +1,31 @@
 # 👋 Hi, I’m Kashyap Ava
 
 🎓 **M.S. Statistics @ UIUC**  
-🧠 **Data Scientist / Applied AI Engineer** — GenAI, Statistical Modeling, Analytics Engineering
+📊 **Applied Statistician / Data Scientist** — Statistical Modeling, Research Analytics, Machine Learning
 
-I build **end-to-end, production-minded data and GenAI systems** — from ingestion and retrieval to modeling, APIs, and user-facing tools.  
-My work combines **statistical rigor**, **modern ML/LLMs**, and **reproducible pipelines** to turn raw data into reliable, decision-ready insights.
+I work on **applied statistical modeling, reproducible research, and data-driven systems** across scientific and analytical problems.
+
+My projects span **survival and longitudinal analysis, mixed-effects modeling, statistical learning, data engineering, and applied AI**, with an emphasis on rigorous validation, interpretable results, and reproducible workflows.
 
 ---
 
 ## 🔥 Featured Projects
+
+### 🩺 [Melanoma-Specific Mortality Under Competing Risks](https://github.com/KashyapAva/melanoma-competing-risks-r)
+
+Conducted a reproducible **survival and competing-risks analysis in R** using a historical cohort of 205 melanoma patients.
+
+Compared **cause-specific Cox and Fine–Gray models**, evaluated proportional-hazards and functional-form assumptions, modeled a **time-varying tumor-thickness effect**, and contrasted Kaplan–Meier estimates with cumulative-incidence functions.
+
+The analysis emphasizes the distinction between **hazard-based and absolute-risk estimands** and the importance of matching the statistical method to the scientific question.
+
+---
+
+### 🌾 [Long-Term Rice Field Trial Analytics (Mixed-Effects Modeling)](https://github.com/KashyapAva/field-trial-mixed-models)
+Analyzed **50+ years of agronomic field-trial data** using mixed-effects models (split-plot RCBD) for valid inference.  
+Performed trial QC, visual diagnostics, and delivered **field-ready recommendations** with publication-quality outputs.
+
+---
 
 ### 🤖 [Local RAG Chatbot (LLM, FAISS, FastAPI, Streamlit)](https://github.com/KashyapAva/local-rag-chatbot)
 Built an end-to-end **local Retrieval-Augmented Generation (RAG)** system for grounded Q&A over PDF/Markdown documents.  
@@ -33,19 +50,13 @@ Designed an end-to-end **Power BI analytics solution** with 15+ DAX measures to 
 
 ---
 
-### 🌾 [Long-Term Rice Field Trial Analytics (Mixed-Effects Modeling)](https://github.com/KashyapAva/field-trial-mixed-models)
-Analyzed **50+ years of agronomic field-trial data** using mixed-effects models (split-plot RCBD) for valid inference.  
-Performed trial QC, visual diagnostics, and delivered **field-ready recommendations** with publication-quality outputs.
-
----
-
 ## 📌 Additional Selected Projects
 
 ### 🌾 [Methane Flux Prediction (LSTM, RF, SARIMA)](https://github.com/KashyapAva/methane-prediction)
 Forecasted methane emissions from eddy-covariance sensor data, improving **MAPE from 103% → 15%** by modeling key environmental drivers such as soil moisture and temperature.
 
 ### 🧬 [Parkinson’s Disease Progression Modeling](https://github.com/KashyapAva/parkinsons-progression)
-Predicted UPDRS progression using LSTM, LightGBM, CatBoost, and SVR models, with **SHAP-based interpretability** for clinical insight.
+Analyzed longitudinal clinical biomarker and UPDRS data using **mixed-effects and predictive modeling approaches**, with reproducible model comparison and trajectory visualization in R.
 
 ### 💰 [Income Prediction with GLMs (Logit & Probit)](https://github.com/KashyapAva/income-prediction)
 Modeled income classification on UCI Census data using logistic and probit GLMs, achieving **AUC = 0.894** with automated preprocessing pipelines.
@@ -54,23 +65,22 @@ Modeled income classification on UCI Census data using logistic and probit GLMs,
 Applied regression, LASSO, and tree-based models to reduce turbine CO emissions, identifying key operational thresholds and achieving **RMSE = 0.504**.
 
 ---
-
 ## 🧠 Core Skills
 
-**GenAI & LLM Systems**  
-RAG pipelines, local LLM inference (llama-cpp), embeddings, FAISS, prompt design, hallucination control, source attribution  
+**Statistical Modeling & Research**
+Survival analysis, competing risks, Cox regression, mixed-effects models, longitudinal analysis, GLMs, model diagnostics, study design
 
-**Machine Learning & Statistics**  
-GLMs, mixed-effects models, classification & regression, LSTM/RNNs, SHAP, model diagnostics  
+**Machine Learning & Applied AI**
+Classification & regression, LSTM/RNNs, SHAP, RAG pipelines, local LLM inference, embeddings, FAISS
 
-**Data Engineering & Analytics**  
-FastAPI, dbt, DuckDB, ETL/ELT pipelines, SQL, data validation, reproducible workflows  
+**Data Engineering & Analytics**
+SQL, dbt, DuckDB, ETL/ELT pipelines, FastAPI, data validation, reproducible workflows
 
-**Visualization & BI**  
-Power BI, DAX, Matplotlib, ggplot2, analytical storytelling  
+**Visualization & Reporting**
+R Markdown, ggplot2, Power BI, DAX, Matplotlib, analytical storytelling
 
-**Tools & Platforms**  
-Python, R, SQL, Git/GitHub, Streamlit, Linux, AWS, Azure, SAS  
+**Tools & Platforms**
+R, Python, SQL, SAS, Git/GitHub, Linux, Streamlit, AWS, Azure
 
 ---
 
@@ -78,11 +88,6 @@ Python, R, SQL, Git/GitHub, Streamlit, Linux, AWS, Azure, SAS
 📧 **Email:** kashyap.ava.29@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/kashyap-avs  
 💻 **GitHub:** https://github.com/KashyapAva  
-
----
-
-⭐ *Repositories emphasize clarity, reproducibility, and system design — bridging modeling, data engineering, and applied AI.*
-
 
 ---
 ⭐ *All repositories emphasize clarity, documentation, and reproducibility — bridging data engineering, modeling, and decision-making.*
